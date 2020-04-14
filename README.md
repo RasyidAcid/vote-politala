@@ -1,0 +1,2 @@
+# vote
+ Website Assets
